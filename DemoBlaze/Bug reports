@@ -1,1 +1,16 @@
+# Testing DemoBlaze webiste, I've came across 13 bugs.
 
+## Here is a list of them:
+1. Contact us not respecting email input type
+2. Home page slider should contain the products that site is selling
+3. Phone Categories
+4. HTC M9 SLIDER not working
+5. iPhone 6 product miswritten description.
+6. Navbar not being displayed when window has a lower resolution.
+7. Purchasing a product with an expired credit card.
+8. S6  image not being displayed fully
+9. Slider not working on Nokia Lumia 1520 
+10. Sony Xperia z5 image miss displayed in cart.
+11. Sony Xperia z5 image not being fully displayed. 
+12. Nokia Lumia 1520  when added to cart has distorted image.
+13. Sony VAIO products images are the same. 
