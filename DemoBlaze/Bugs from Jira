@@ -9,3 +9,7 @@ Steps to reproduce:
 Expected results :  Contact e-mail should require the user to enter a valid mail.
 Actual results
 ![Contact us for not respecting email input type when form sent](https://user-images.githubusercontent.com/120113200/215341034-fa5f3741-08f1-4673-a8aa-062bae47d0f3.png)
+Test data
+testmail
+test
+this is a test message
