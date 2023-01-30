@@ -13,3 +13,191 @@ Test data
 testmail
 test
 this is a test message
+
+__________________________________________________________________________________________________________________________________________________________________________
+
+Priority: P1
+Title: Home page slider should contain the products that site is selling.
+Description: Home page slider should contain the products that site is selling.
+Steps to reproduce
+1.Go to https://www.demoblaze.com/
+2.Navigate through  slider
+
+Expected results : Items displayed should be sold by the website.
+Actual results
+https://github.com/tandea/BugCases/issues/3#issue-1563211408 
+
+__________________________________________________________________________________________________________________________________________________________________________
+Priority: P1
+Title:  Homepage, Phone Categories 
+Description : Homepage, Phone Categories selected but still has navigation buttons, Pressing Previous buttons gets me to Homepage
+Steps to reproduce 
+
+1. Go to  https://www.demoblaze.com/
+
+2. Select Phone from Categories
+
+3. Press Previous 
+Expected results : Previous button shouldn’t be displayed only when you go to a new page of that category.
+Actual results
+https://github.com/tandea/BugCases/issues/4#issue-1563214636 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority : P1
+Title : HTC M9 SLIDER not working, it is frozen. It looks like is embedded in the image.
+Description : HTC M9 SLIDER not working, it is frozen. It looks like is embedded in the image.
+Steps to reproduce : 
+
+1. Go to https://www.demoblaze.com/
+
+2. Navigate to HTC M9
+
+3. Visualize the image slideshow. 
+Expected results  : When user clicks the glider, it should change images.
+Actual results
+https://github.com/tandea/BugCases/issues/5#issue-1563216565 
+
+__________________________________________________________________________________________________________________________________________________________________________
+
+Priority : P2
+Title :  iPhone 6 product miswritten description. 
+Description : When checking the title and the product description, there are 2 different storage values. 
+Steps to reproduce: 
+
+1. Go to https://www.demoblaze.com/
+
+2. Navigate to iPhone 6
+
+3. Read the title and the description
+Expected results : iPhone 6 description should have 32gb text instead of 16gb.
+Actual results
+https://github.com/tandea/BugCases/issues/6#issue-1563217889
+
+__________________________________________________________________________________________________________________________________________________________________________
+Priority: P1
+Title : Navbar when checked for responsiveness 
+Description : Navbar not being displayed when website was checked for responsiveness .
+Steps to reproduce. 
+1. Go to https://www.demoblaze.com/
+2. F12 -  TOGGLE DEVICE  TOOLBAR
+Expected results : Navbar should be displayed on any screen resolution.
+Actual results : 
+https://github.com/tandea/BugCases/issues/7#issue-1563218501 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority  : P1
+Title : Purchasing a product with an expired credit card.
+Description : Purchasing a product with an expired credit card.
+Steps to reproduce : 
+
+1. Go to https://www.demoblaze.com/
+
+2. Add items to cart
+
+3. Go to cart
+
+4. Place order
+
+5. Fill the form.
+
+6. Press Purchase
+Expected results : User should not be able to press “Purchase” unless he provides a valid credit card.
+Actual results : 
+https://github.com/tandea/BugCases/issues/8#issue-1563220253
+__________________________________________________________________________________________________________________________________________________________________________
+Description
+
+Priority: P2
+Title : S6  image not being displayed fully
+Description : S6 image not being fully displayed when the product page was checked for responsiveness. 
+Steps to reproduce 
+
+1. Go to https://www.demoblaze.com/
+
+2. Navigate to S6
+
+3. Press “F12” - Toggle Device Toolbar
+Expected results  : Image should be displayed in full size
+Actual results 
+https://github.com/tandea/BugCases/issues/9#issue-1563222812 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority : P2
+Title : Slider not working on Nokia Lumia 1520 
+Description :  Slider not working on Nokia Lumia 1520  
+Steps to reproduce  
+
+1. Go to https://www.demoblaze.com/
+
+2. Navigate to Nokia Lumia 1520 
+
+Expected results : Slider should let user glide through images.
+Actual results : 
+https://github.com/tandea/BugCases/issues/10#issue-1563223990 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority  P3
+Title Sony Xperia z5 image miss displayed in cart.
+Description Sony Xperia z5 image miss displayed in cart.
+Steps to reproduce 
+
+1. Go to https://www.demoblaze.com/
+
+2. Navigate to Sony Xperia z5
+
+3. Add to cart
+
+4. Go to cart
+Expected results Sony Xperia z5 image should be displayed fully.
+Actual results 
+https://github.com/tandea/BugCases/issues/11#issue-1563225062 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority  P2
+Title  Sony Xperia z5 image
+Description   Sony Xperia z5 image not being fully displayed.
+Steps to reproduce  
+
+1. Go to https://www.demoblaze.com/ 
+
+2. Navigate to Sony Xperia z5
+Expected results  Sony Xperia z5 image should be  fully displayed.
+Actual results
+https://github.com/tandea/BugCases/issues/12#issue-1563226353 
+
+__________________________________________________________________________________________________________________________________________________________________________
+Priority : P2
+Title  Nokia Lumia added to cart
+Description Nokia Lumia 1520  when added to cart has distorted image.
+Steps to reproduce 
+
+1. Go to https://www.demoblaze.com/  
+
+2. Navigate to  Nokia Lumia 1520
+
+3. Press “Add to cart”
+Expected results  Nokia Lumia 1520 should have an not distorted image
+Actual results 
+https://github.com/tandea/BugCases/issues/13#issue-1563231005 
+__________________________________________________________________________________________________________________________________________________________________________
+Priority : P2
+Title  Sony VAIO products images are the same.
+Description   Sony VAIO products images are the same.
+Steps to reproduce 
+
+1. Go to https://www.demoblaze.com/ 
+
+2. Navigate to Sony VAIO 5
+
+3. Press “Add to cart”
+
+3. Go to Homepage
+
+4. Navigate to Sony VAIO 7
+
+5.  Press “Add to cart”
+
+6. Go to Cart
+Expected results  There should be a different image for those items.
+Actual results 
+https://github.com/tandea/BugCases/issues/13#issue-1563231005 
+
+
+
+
+
